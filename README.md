@@ -3,6 +3,7 @@
 🚀 About Me
 
 👋 Hi! I'm a student at UMFST, passionate about software development, mobile apps, and web technologies. I enjoy working on projects that challenge me to learn and improve my skills.
+
 💻 Tech Stack
 
     🟣 Languages: Kotlin, Java, JavaScript (ES6+), C/C++, C#, MySQL
