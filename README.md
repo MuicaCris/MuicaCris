@@ -12,6 +12,7 @@
 📌 Current Projects
 
 🔹 StreamNet – A live streaming mobile app using Kotlin, WebSocket, and a .NET server.
+
 📫 Get in Touch
 
     LinkedIn: https://www.linkedin.com/in/muica-szilagyi-cristian-172609227/
