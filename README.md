@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Muica-Szilagyi Cristian
 
-<!--
-**MuicaCris/MuicaCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+👋 Hi! I'm a student at UMFST, passionate about software development, mobile apps, and web technologies. I enjoy working on projects that challenge me to learn and improve my skills.
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🟣 Languages: Kotlin, Java, JavaScript (ES6+), C/C++, C#, MySQL
+    ⚡ Frameworks & Tools: .NET (C#), WebSocket
+    🎯 Interests: Mobile development, real-time applications, UI/UX design
+
+📌 Current Projects
+
+🔹 StreamNet – A live streaming mobile app using Kotlin, WebSocket, and a .NET server.
+📫 Get in Touch
+
+    LinkedIn: https://www.linkedin.com/in/muica-szilagyi-cristian-172609227/
+    Email: muicacristian1@gmail.com
