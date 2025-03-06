@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Muica-Szilagyi Cristian
+## Hi there, I'm Muica-Szilagyi Cristian 👋
 
 🚀 About Me
 
