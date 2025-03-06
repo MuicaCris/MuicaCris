@@ -8,7 +8,7 @@
 
     🟣 Languages: Kotlin, Java, JavaScript (ES6+), C/C++, C#, MySQL
     ⚡ Frameworks & Tools: .NET (C#), WebSocket
-    🎯 Interests: Mobile development, real-time applications, UI/UX design
+    🎯 Interests: Mobile development, real-time applications
 
 📌 Current Projects
 
